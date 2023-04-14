@@ -1,8 +1,8 @@
 
 synthetic_from_root = {
   "Account1" = "./script/test.js",
-  "Account2" = "./script/test2.js",
-  "Account3" = "./script/test3.js"
+#   "Account2" = "./script/test2.js",
+#   "Account3" = "./script/test3.js"
 }
 
 USER_ACCOUNT_ID = 3771867
